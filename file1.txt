@@ -1,4 +1,4 @@
-local 
+local + ahaha
 global 
 
-ahihhi 
+ahihhi + ahhuhu
